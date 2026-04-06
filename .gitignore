@@ -1,0 +1,12 @@
+# Security - NEVER UPLOAD
+.env
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+
+# Project specific artifacts
+HANDOVER.md
